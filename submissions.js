@@ -100,3 +100,12 @@ mods.push({
     "description": "Timer mod for Airframe Ultra, for racing against yourself on the track!",
     "image_file_name": "TimerMod.png"
 })
+
+mods.push({
+    "mod_name": "FreeRoam",
+    "developer_name": "RosePT-10",
+    "supported_game_versions": ["Beta 4", "Beta 5"],
+    "download_link": "https://github.com/RosePT-10/AFU-FreeRoam",
+    "description": "A mod for Airframe Ultra which removes the out of bounds kill timer, out of bounds walls, and all kill planes. Currently only the OOB timer removal has been implemented.",
+    "image_file_name": "FreeRoam.png"
+})
