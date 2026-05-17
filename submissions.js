@@ -109,3 +109,12 @@ mods.push({
     "description": "A mod for Airframe Ultra which removes the out of bounds kill timer, out of bounds walls, and all kill planes. Currently only the OOB timer removal has been implemented.",
     "image_file_name": "FreeRoam.png"
 })
+
+mods.push({
+    "mod_name": "ShrimpleWeaponCustomizer",
+    "developer_name": "blankochan",
+    "supported_game_versions": ["Beta 4", "Beta 5"],
+    "download_link": "https://github.com/blankochan/ShrimpleWeaponCustomizer",
+    "description": "A mod for Airframe Ultra which allows customization of the weapons",
+    "image_file_name": "ShrimpleWeaponCustomizer.png"
+})
