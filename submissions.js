@@ -67,27 +67,27 @@ function testing(){
 
 mods.push({
     "mod_name": "AFUSeizurePrevention",
-    "developer_name": "RosePT-10",
+    "developer_name": "AstelleBT-02",
     "supported_game_versions": ["Beta 1", "Beta 2", "Beta 3", "Beta 4", "Beta 5"],
-    "download_link": "https://github.com/RosePT-10/AFUSeizurePrevention",
+    "download_link": "https://github.com/AstelleBT-02/AFUSeizurePrevention",
     "description": "A mod which alters the lighting effect of the Riot Stick and EMP Grenades, as well as visually removing flashbangs entirely, to prevent seizures. ",
     "image_file_name": "AFUSeizurePrevention.png"
 })
 
 mods.push({
     "mod_name": "AFU: Ultimate Premium Edition",
-    "developer_name": "RosePT-10",
+    "developer_name": "AstelleBT-02",
     "supported_game_versions": ["Beta 4"],
-    "download_link": "https://github.com/RosePT-10/AFU-Ultimate-Premium-Edition",
+    "download_link": "https://github.com/AstelleBT-02/AFU-Ultimate-Premium-Edition",
     "description": "A mod for Airframe Ultra which makes extensive changes to... pretty much everything. It's AFU Repainted if you know what that means. If you don't, its just replacing the games assets with a bunch of memes.",
     "image_file_name": "AirframeUltraUltimatePremiumEdition.png"
 })
 
 mods.push({
     "mod_name": "UPEAssetSwapper",
-    "developer_name": "RosePT-10",
+    "developer_name": "AstelleBT-02",
     "supported_game_versions": ["Beta 4"],
-    "download_link": "https://github.com/RosePT-10/UPEAssetSwapper",
+    "download_link": "https://github.com/AstelleBT-02/UPEAssetSwapper",
     "description": "Melon Loader mod to replace assets in the game Airframe Ultra. Was created for use in Aiframe Ultra: Ultimate Premium Edition (UPE), a mod which replaces game assets with memes. Currently it is non functional. I started my Melon Loader modding journey with this but hit a wall and couldn't figure it out. I then got UPEAddons working and that was a huge success. I plan to come back to this tool at a later time. Until this mod has a release posted, assume that it doesnt do anything.",
     "image_file_name": "UPEAssetSwapper.png"
 })
@@ -103,9 +103,9 @@ mods.push({
 
 mods.push({
     "mod_name": "FreeRoam",
-    "developer_name": "RosePT-10",
+    "developer_name": "AstelleBT-02",
     "supported_game_versions": ["Beta 4", "Beta 5"],
-    "download_link": "https://github.com/RosePT-10/AFU-FreeRoam",
+    "download_link": "https://github.com/AstelleBT-02/AFU-FreeRoam",
     "description": "A mod for Airframe Ultra which removes the out of bounds kill timer, out of bounds walls, and all kill planes. Currently only the OOB timer removal has been implemented.",
     "image_file_name": "FreeRoam.png"
 })
