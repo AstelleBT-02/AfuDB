@@ -70,7 +70,7 @@ mods.push({
     "developer_name": "AstelleBT-02",
     "supported_game_versions": ["Beta 1", "Beta 2", "Beta 3", "Beta 4", "Beta 5"],
     "download_link": "https://github.com/AstelleBT-02/AFUSeizurePrevention",
-    "description": "A mod which alters the lighting effect of the Riot Stick and EMP Grenades, as well as visually removing flashbangs entirely, to prevent seizures. ",
+    "description": "Removes lighting effect of EMP's and Riot stick, makes flashbangs black instead of white, and removes the low health red pulse, all to prevent seizures.",
     "image_file_name": "AFUSeizurePrevention.png"
 })
 
@@ -81,15 +81,6 @@ mods.push({
     "download_link": "https://github.com/AstelleBT-02/AFU-Ultimate-Premium-Edition",
     "description": "A mod for Airframe Ultra which makes extensive changes to... pretty much everything. It's AFU Repainted if you know what that means. If you don't, its just replacing the games assets with a bunch of memes.",
     "image_file_name": "AirframeUltraUltimatePremiumEdition.png"
-})
-
-mods.push({
-    "mod_name": "UPEAssetSwapper",
-    "developer_name": "AstelleBT-02",
-    "supported_game_versions": ["Beta 4"],
-    "download_link": "https://github.com/AstelleBT-02/UPEAssetSwapper",
-    "description": "Melon Loader mod to replace assets in the game Airframe Ultra. Was created for use in Aiframe Ultra: Ultimate Premium Edition (UPE), a mod which replaces game assets with memes. Currently it is non functional. I started my Melon Loader modding journey with this but hit a wall and couldn't figure it out. I then got UPEAddons working and that was a huge success. I plan to come back to this tool at a later time. Until this mod has a release posted, assume that it doesnt do anything.",
-    "image_file_name": "UPEAssetSwapper.png"
 })
 
 mods.push({
@@ -106,7 +97,7 @@ mods.push({
     "developer_name": "AstelleBT-02",
     "supported_game_versions": ["Beta 4", "Beta 5"],
     "download_link": "https://github.com/AstelleBT-02/AFU-FreeRoam",
-    "description": "A mod for Airframe Ultra which removes the out of bounds kill timer, out of bounds walls, and all kill planes. Currently only the OOB timer removal has been implemented.",
+    "description": "Removes the OOB timer, allowing you to go (almost) wherever you want! Removal of the invisible walls and killplanes is planned but not yet implemented.",
     "image_file_name": "FreeRoam.png"
 })
 
