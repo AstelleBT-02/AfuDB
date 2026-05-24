@@ -69,7 +69,7 @@ mods.push({
     "mod_name": "AFUSeizurePrevention",
     "developer_name": "AstelleBT-02",
     "supported_game_versions": ["Beta 1", "Beta 2", "Beta 3", "Beta 4", "Beta 5"],
-    "download_link": "https://github.com/AstelleBT-02/AFUSeizurePrevention",
+    "download_link": "https://github.com/AstelleBT-02/AFU-SeizurePrevention",
     "description": "Removes lighting effect of EMP's and Riot stick, makes flashbangs black instead of white, and removes the low health red pulse, all to prevent seizures.",
     "image_file_name": "AFUSeizurePrevention.png"
 })
