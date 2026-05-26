@@ -118,3 +118,12 @@ mods.push({
     "description": "A balance mod for Airframe Ultra that focuses on general price and economy changes, as well as reworking most gun's and grenade's ammo counts to be consistent between racing and on foot arenas.",
     "image_file_name": "KingsRansom.png"
 })
+
+mods.push({
+    "mod_name": "Speedometer",
+    "developer_name": "Astelle",
+    "supported_game_versions": ["Beta 4"],
+    "download_link": "https://github.com/AstelleBT-02/AFU-Speedometer",
+    "description": "Add's a center screen speedometer which displays ground speed in a more truthful unit than the hud speedometer's \"kmh\"",
+    "image_file_name": "Speedometer.png"
+})
